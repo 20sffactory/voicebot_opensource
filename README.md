@@ -7,3 +7,4 @@ https://pypi.org/project/gTTS/
 https://pypi.org/project/pyserial/
 
 init & configure your arm setting accordingly. 
+run voicebot_opensource.py 
